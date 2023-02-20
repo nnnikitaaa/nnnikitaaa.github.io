@@ -4,6 +4,7 @@
 # Recommended: VisualStudio.gitignore
 
 # TwinCAT files
+/.idea
 *.tpy
 *.tclrs
 *.compiled-library
